@@ -1,37 +1,24 @@
-RING CREATION
+RING CREATION — Open-Source Fashion System
 
-An open-source modular fashion system.
+Ring Creation is an open-source modular fashion system built around interlocking rings.
 
-Ring Creation is a modular system based on 3D-printed interlocking rings. By connecting individual rings, users can create and customize a wide range of fashion items and objects.
+What It Is
 
-Inspired by the flexibility of knitting and the modularity of building blocks, the system enables users to assemble, disassemble, repair, modify, and reconfigure their creations.
+Ring Creation is a modular system in which individual rings are connected to form larger structures. By combining simple components, users can create a wide variety of forms and designs.
 
-What You Can Create
+How It Works
 
-Garments and accessories
+The components are produced using 3D printing and assembled by hand. Rather than printing a complete object, users connect individual parts to build their creations.
 
-Bags, hats, and footwear
+What It Enables
 
-Interior objects and other creative applications
+Ring Creation can be used to create garments, bags, accessories, and other objects. Its modular structure allows creations to be disassembled, repaired, modified, and reconfigured, making it possible to transform existing parts into something new.
 
 Open Source
 
-Ring Creation is designed to make the tools for creation accessible to everyone.
+The design data is shared openly so that anyone can access the system, produce its components, and participate in the creative process. Users are encouraged to experiment, develop their own designs, and explore new possibilities through making and sharing.
 
-Users can download the 3D data, print the parts, and assemble them by hand. The system encourages experimentation, customization, repair, and the sharing of ideas.
-
-3D Data
-
-3D-printable files and assembly instructions will be published here.
-
-Coming soon.
-
-License
-
-The license and terms of use for the 3D data will be specified here.
-
-Make it. Connect it. Reconfigure it.
-
+Create. Connect. Reconfigure.
 <!--
 **ring-creation/ring-creation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
